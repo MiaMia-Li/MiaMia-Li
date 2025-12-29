@@ -5,7 +5,6 @@
 
 [🌐 Website](https://www.snapstoryai.com) · [💼 LinkedIn](https://www.linkedin.com/in/mengyao-li-software/) · [🐦 Twitter/X](https://x.com/Sep_Miamia)
 
----
 
 </div>
 
@@ -14,14 +13,12 @@
 - 🏗️ **Indie Hacking**: Building products from 0 to 1 with a focus on fast shipping.
 - 🎨 **DX & UX**: Passionate about clean code architecture and seamless user experiences.
 
----
 
 ## 🛠 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,prisma,aws&theme=dark" />
 </p>
 
----
 
 ## 🚀 Featured Project
 
@@ -42,7 +39,6 @@
 | **AI Resume Insight** | Intelligent resume scoring and one-click AI optimization. | `🏗️ Building` |
 | **Portfolio** | Showcasing AI-driven engineering patterns. | `✨ Polishing` |
 
----
 
 ## 📊 Engineering Metrics
 
