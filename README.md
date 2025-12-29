@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mengyao Li 👋
+# Hi, I'm Mia 👋
 ### 🚀 Frontend / Full-Stack Engineer · AI Product Builder
 
 [🌐 Website](https://www.snapstoryai.com) · [💼 LinkedIn](https://www.linkedin.com/in/mengyao-li-software/) · [🐦 Twitter/X](https://x.com/Sep_Miamia)
